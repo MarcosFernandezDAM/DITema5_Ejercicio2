@@ -1,0 +1,16 @@
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.dll
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.EtiquetaAviso.resources
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.dll
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\Marcos\source\repos\Tema5\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.dll
+C:\Users\Marcos\source\repos\Tema5\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Marcos\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.EtiquetaAviso.resources
+C:\Users\Marcos\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+C:\Users\Marcos\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.dll
+C:\Users\Marcos\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
